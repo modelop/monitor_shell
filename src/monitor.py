@@ -35,7 +35,7 @@ def metrics(data: pd.DataFrame):
     finalResult = {}
 
     finalResult.update({
-        'count': len(data)
+        'record_count': len(data)
     })
 
     yield finalResult
