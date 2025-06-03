@@ -1,0 +1,28 @@
+{
+  "generic_bar_graph": {
+    "title": "Example Bar Chart",
+    "x_axis_label": "X Axis",
+    "y_axis_label": "Y Axis",
+    "rotated": false,
+    "data": {
+      "data1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "data2": [
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    "categories": [
+      "cat1",
+      "cat2",
+      "cat3",
+      "cat4"
+    ]
+  }
+}
